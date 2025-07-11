@@ -16,5 +16,5 @@ Clicando em:
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ## Layout 💻
+<img src="./imagem/page.gif">
 
-<img src="imagem/page.gif">
